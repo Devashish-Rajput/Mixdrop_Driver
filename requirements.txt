@@ -1,0 +1,4 @@
+Pyrogram~=1.1.13
+TgCrypto
+aiohttp~=3.7.3
+hurry.filesize
