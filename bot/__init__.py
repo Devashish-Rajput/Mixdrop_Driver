@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
-# This is bot coded by Abhijith-cloud and used for educational purposes only
-# https://github.com/Abhijith-cloud
-# Copyright ABHIJITH N T
-# Thank you https://github.com/pyrogram/pyrogram
+# This is bot is reused by https://github.com/Devashish-Rajput/ and used for educational purposes only
+
 
 import os
 import logging
@@ -43,7 +41,7 @@ except KeyError:
 
 
 class Msg:
-    source = "\nsource: https://github.com/Abhijith-cloud/TelegramFiletoCloud"
+    source = "\nsource: https://github.com/Devashish-Rajput/Mixdrop_Driver"
     start = "\n<b>This bot uploads telegram files to MixDrop.co,File.io.\nAdmin: @thankappan369</b>"
-    error = "something is went wrong\n{error} \ncontact admin @thankappan369"
+    error = "something is went wrong\n{error} \ncontact admin @dr6883"
     help = "Usage: <b>Send any file and the bot will upload it to MixDrop.co,File.io</b>"
