@@ -37,6 +37,4 @@ class Config:
 ```sh
 python3 -m bot
 ```
-## :clap:  Supporters
-[![Stargazers repo roster for @Abhijith-cloud/TelegramFiletoCloud](https://github.com/Devashish-Rajput/Mixdrop_Driver)]
-[![Forkers repo roster for @Abhijith-cloud/TelegramFiletoCloud](https://github.com/Devashish-Rajput/Mixdrop_Driver)]
+## :clap
