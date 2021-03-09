@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-# This is bot coded by Abhijith-cloud and used for educational purposes only
-# https://github.com/Abhijith-cloud
-# Copyright ABHIJITH N T
 
 import time
 
