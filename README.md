@@ -4,7 +4,7 @@
 ### Usage: Send any file, and the bot will upload it to MixDrop.co, File.io
 
 ### Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhijith-cloud/Telegram-MixDrop-Bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Devashish-Rajput/Mixdrop_Driver/)
 
 # Installation
 #### Clone 
@@ -38,5 +38,5 @@ class Config:
 python3 -m bot
 ```
 ## :clap:  Supporters
-[![Stargazers repo roster for @Abhijith-cloud/TelegramFiletoCloud](https://reporoster.com/stars/Abhijith-cloud/TelegramFiletoCloud)](https://github.com/Abhijith-cloud/TelegramFiletoCloud/stargazers)
-[![Forkers repo roster for @Abhijith-cloud/TelegramFiletoCloud](https://reporoster.com/forks/Abhijith-cloud/TelegramFiletoCloud)](https://github.com/Abhijith-cloud/TelegramFiletoCloud/network/members)
+[![Stargazers repo roster for @Abhijith-cloud/TelegramFiletoCloud](https://github.com/Devashish-Rajput/Mixdrop_Driver)]
+[![Forkers repo roster for @Abhijith-cloud/TelegramFiletoCloud](https://github.com/Devashish-Rajput/Mixdrop_Driver)]
