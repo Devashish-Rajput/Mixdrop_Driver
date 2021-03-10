@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-# This is bot coded by Abhijith-cloud and used for educational purposes only
-# https://github.com/Abhijith-cloud
-# Copyright ABHIJITH N T
-# Thank you https://github.com/pyrogram/pyrogram
+# This is bot coded reused by https://github.com/Devashish-Rajput/ and used for educational purposes only
 
 from bot.plugins.upload_servers.fileio_upload import fileIO
 from bot.plugins.upload_servers.mixdrop_upload import mixFileup
