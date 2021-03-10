@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# This is bot coded reused by https://github.com/Devashish-Rajput/ and used for educational purposes only
 
 from pyrogram import *
 import datetime
